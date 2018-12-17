@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.luaj:luaj-jse:3.0.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.luaj/luaj-jse/jars/luaj-jse-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.luaj/luaj-jse/srcs/luaj-jse-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
